@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author vyshu
+ *
+ */
+module javacollections {
+}
